@@ -6,4 +6,4 @@ The OpenAI, an AI research and development company, has recently published a ver
 
 ### Comments by Lauren Gatesman
 
-Hi Seunggun! Have humans finally taught code how to write code itself? It feels like we may have... This is really interesting because NLP has always been crazy to me. Speaking and understanding a language is (in my opinion) the most specialized and complicated skill that humans have - it is amazing that we have taught computers to understand it (even in a small capacity) and that they are writing code now. Great article choice!
+Hi Seunggun! Have humans finally taught code how to write code itself? It feels like we may have... This is really interesting because NLP has always been crazy to me. Speaking and understanding a language is (in my opinion) the most specialized and complicated skill that humans have - it is amazing that we have taught computers to understand it (even in a small capacity) and that they are writing code now. I will be interested to see how much humans can teach computers to understand about human language exchange.
